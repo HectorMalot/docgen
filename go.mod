@@ -1,4 +1,4 @@
-module github.com/go-chi/docgen
+module github.com/hectormalot/docgen
 
 go 1.15
 
