@@ -10,9 +10,9 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/go-chi/docgen"
-	"github.com/go-chi/docgen/raml"
 	"github.com/go-chi/render"
+	"github.com/hectormalot/docgen"
+	"github.com/hectormalot/docgen/raml"
 	yaml "gopkg.in/yaml.v2"
 )
 
